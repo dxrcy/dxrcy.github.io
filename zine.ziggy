@@ -1,9 +1,8 @@
 Site {
     .title = "darcy's website",
-    .host_url = "https://dxrcy.dev",
+    .host_url = "https://dxrcy.dev/dxrcydev",
     .content_dir_path = "content",
     .layouts_dir_path = "layouts",
     .assets_dir_path = "assets",
-    .static_assets = [
-    ],
+    .static_assets = [],
 }
