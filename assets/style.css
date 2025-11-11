@@ -64,6 +64,10 @@ nav {
   margin-bottom: 0;
 }
 
+a:not(:hover):not(:active) {
+  text-decoration-color: #777;
+}
+
 .small {
   font-size: 0.8em;
 }
