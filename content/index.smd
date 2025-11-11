@@ -47,34 +47,34 @@ Perfect for sites without dynamic content, that are only changed occasionally.
 - [This webpage](https://github.com/dxrcy/dxrcy.github.io)
 - [Sorting algorithm visualiser](https://github.com/dxrcy/sorting) (_Rust_)
 - [Command-line XML syntax highlighter](https://github.com/dxrcy/xml-highlight) (_C_)
-- [_Langon's Ant_ in Minecraft](https://github.com/dxrcy/mcant) (_Rust_)
+- [_Langton's Ant_ in Minecraft](https://github.com/dxrcy/mcant) (_Rust_)
 - [Color generation website](https://github.com/dxrcy/color) (_HTML/JS_)
 
 # [Professional Experience]($section.id('professional-experience'))
 
-## Royal Melbourne Institute of Technology Melbourne
+## Royal Melbourne Institute of Technology
 
-Student Mentor (Paid role) – C++, Java, SQLite Feb 2025 - Current
+Student Mentor (Paid role) – C++, Java, SQLite -- Feb 2025 - Current
 
 - In-class tutor for units previously taken, including core
   [C++](https://www1.rmit.edu.au/courses/054082) and Java/SQLite
   programming classes.
 
-Designing Assignment Sample Solution – C++ Mar 2025 - Jun 2025
+Designing Assignment Sample Solution – C++ -- Mar 2025 - Jun 2025
 
 - Collaborated on the final assignment for
   [C++ Programming Studio](https://www1.rmit.edu.au/courses/054082), and
   implemented the sample solution.
 
-Developing Assignment Autograder – Python May 2025
+Developing Assignment Autograder – Python -- May 2025
 
 - Upgraded the automatic grading system for
   [C++ Programming Studio](https://www1.rmit.edu.au/courses/054082), including
   extending core functionality.
 
-## MMC Research Melbourne
+## MMC Research
 
-Developer for Chrome Native Extension (Short-term contract) – Rust Mar 2025
+Developer for Chrome Native Extension (Short-term contract) – Rust -- Mar 2025
 
 - Built an asynchronous event loop for handling message requests, to use
   [native Rust code in Chrome Extensions](https://developer.chrome.com/docs/extensions/develop/concepts/native-messaging).
@@ -126,7 +126,7 @@ Zig is hands-down my favourite language to work with, due to its simplicity,
 low-level capabilities, and compile-time evaluation.
 
 - Terminal user interfaces
-- Dynamically loaded libaries
+- Dynamically loaded libraries
 - Custom language parsers
 - Algorithm implementations
 
@@ -139,25 +139,25 @@ C++ is great (yes, I said it).
 - Custom memory allocation
 - Low-level programming on POSIX systems
 
-## Javascript/Typescript
+## JavaScript/TypeScript
 
 A necessary skill for front-end web development.
 
-- Client-side vanilla Javascript in HTML
+- Client-side vanilla JavaScript in HTML
 - React single-page applications
-- Server-side programming with Node.JS
+- Server-side programming with Node.js
 - Electron applications
 
 ## Miscellaneous
 
 - Languages: Python, Bash, Lua, Java, Haskell
-- Tools: coreutils, FFmpeg, Autohotkey
+- Tools: coreutils, FFmpeg, AutoHotKey
 
 # [/etc/]($section.id('etc'))
 
 ## My Workflow
 
-EndevourOS + Hyprland + Neovim + Tmux.
+EndeavourOS + Hyprland + Neovim + tmux.
 
 You can find my dotfiles [here](https://github.com/dxrcy/dotfiles) if you are
 interested.
