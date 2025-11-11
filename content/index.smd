@@ -1,6 +1,6 @@
 ---
 .title = "Homepage",
-.date = @date("2025-11-10T12:00:00"),
+.date = @date("2025-11-11T12:00:00"),
 .author = "darcy",
 .layout = "index.shtml",
 .draft = false,
@@ -11,38 +11,31 @@ I speak English, Esperanto, and Rust,
 and am interested in low-level and systems programming, and web development.
 
 - [@dxrcy on GitHub](https://github.com/dxrcy)
-- [My Resume](https://dxrcy.dev/static/Darcy.Burke.Resume.pdf)
+- [My Resume]($link.siteAsset('Darcy.Burke.Resume.pdf'))
 
 # [Projects]($section.id('projects'))
 
-## βcalc -- Lambda Calculus Evaluator
+## [βcalc -- Lambda Calculus Evaluator](https://github.com/dxrcy/bcalc)
 
 _Language: Zig_
 
 Command-line tool which parses, evaluates, and unifies lambda calculus
 expressions, focusing on speed and minimal allocation.
 
-## chesst -- Terminal Chess Game
+## [chesst -- Terminal Chess Game](https://github.com/dxrcy/chesst)
 
 _Language: Zig_
 
 Two-player chess game built without any libraries, rendered in the terminal.
 
-## EveryGarf -- Download every _Garfield_ comic
+## [EveryGarf -- _Garfield_ comic downloader](https://github.com/dxrcy/everygarf)
 
 _Language: Rust_
 
 A command-line tool which scrapes _GoComics.com_ to download every _Garfield_
 comic concurrently.
 
-## LASIM -- LC-3 Assembler & Simulator
-
-_Language: C++_
-
-An implementation of both an assembler and simulator for the _Little Computer 3_
-(_LC-3_) assembly language.
-
-## Ibex -- Static site generation framework
+## [Ibex -- Static site generation framework](https://github.com/dxrcy/ibex)
 
 _Language: Rust_
 
@@ -51,11 +44,11 @@ Perfect for sites without dynamic content, that are only changed occasionally.
 
 ### Other Projects
 
-- This webpage
-- Sorting algorithm visualiser (_Rust_)
-- Command-line XML syntax highlighter (_C_)
-- _Langon's Ant_ in Minecraft (_Rust_)
-- Color generation website (_HTML/JS_)
+- [This webpage](https://github.com/dxrcy/dxrcy.github.io)
+- [Sorting algorithm visualiser](https://github.com/dxrcy/sorting) (_Rust_)
+- [Command-line XML syntax highlighter](https://github.com/dxrcy/xml-highlight) (_C_)
+- [_Langon's Ant_ in Minecraft](https://github.com/dxrcy/mcant) (_Rust_)
+- [Color generation website](https://github.com/dxrcy/color) (_HTML/JS_)
 
 # [Professional Experience]($section.id('professional-experience'))
 
@@ -63,25 +56,28 @@ Perfect for sites without dynamic content, that are only changed occasionally.
 
 Student Mentor (Paid role) – C++, Java, SQLite Feb 2025 - Current
 
-- In-class tutor for units previously taken, including core C++ and Java/SQLite
+- In-class tutor for units previously taken, including core
+  [C++](https://www1.rmit.edu.au/courses/054082) and Java/SQLite
   programming classes.
 
 Designing Assignment Sample Solution – C++ Mar 2025 - Jun 2025
 
-- Collaborated on the final assignment for C++ Programming Studio, and
+- Collaborated on the final assignment for
+  [C++ Programming Studio](https://www1.rmit.edu.au/courses/054082), and
   implemented the sample solution.
 
 Developing Assignment Autograder – Python May 2025
 
-- Upgraded the automatic grading system for C++ Programming Studio, including
+- Upgraded the automatic grading system for
+  [C++ Programming Studio](https://www1.rmit.edu.au/courses/054082), including
   extending core functionality.
 
 ## MMC Research Melbourne
 
 Developer for Chrome Native Extension (Short-term contract) – Rust Mar 2025
 
-- Built an asynchronous event loop for handling message requests, to use native
-  Rust code in Chrome Extensions.
+- Built an asynchronous event loop for handling message requests, to use
+  [native Rust code in Chrome Extensions](https://developer.chrome.com/docs/extensions/develop/concepts/native-messaging).
 
 # [Contributions]($section.id('contributions'))
 
@@ -93,20 +89,24 @@ Fixed a bug relating to integer underflow when using a commit timestamp close to
 Unix Epoch with a positive timezone offset. GitHub shows the PR as
 closed/unmerged, because the Git repo on GitHub is just a mirror.
 
+- [View pull request](https://github.com/git/git/pull/1726) (merged)
+
 ## Lace -- LC-3 assembly toolchain
 
 _Language: Rust_
 
 Implemented an interactive debugger interface, along with many other minor features and fixes.
 
+- [View pull request](https://github.com/rozukke/lace/pulls?q=is%3Apr+is%3Aclosed+author%3Adxrcy)
+
 ### Other Contributions
 
-- MCPP -- Minecraft interface library (_C++_)
-- Ferdium -- Social media manager (_Typescript_, _React_, _Electron_)
-- Nvim-Tree -- File explorer for NeoVim (_Lua_)
-- Yazi -- Terminal file explorer (_Rust_)
-- SpotDL -- Spotify download tool (_Python_)
-- Neothesia -- MIDI visualiser (_Rust_)
+- [MCPP -- Minecraft interface library](https://github.com/rozukke/mcpp/pulls?q=is%3Apr+author%3Adxrcy) (_C++_)
+- [Ferdium -- Social media manager](https://github.com/ferdium/ferdium-app/pull/1972) (_Typescript_, _React_, _Electron_)
+- [Nvim-Tree -- File explorer for NeoVim](https://github.com/nvim-tree/nvim-tree.lua/pull/2655) (_Lua_)
+- [Yazi -- Terminal file explorer](https://github.com/sxyazi/yazi/pull/2143) (_Rust_)
+- [SpotDL -- Spotify download tool](https://github.com/spotDL/spotify-downloader/pull/2105) (_Python_)
+- [Neothesia -- MIDI visualiser](https://github.com/PolyMeilex/Neothesia/pull/74) (_Rust_)
 
 # [Programming Experience]($section.id('programming-experience'))
 
@@ -157,15 +157,15 @@ A necessary skill for front-end web development.
 
 ## My Workflow
 
-- EndevourOS
-- Hyprland
-- Neovim
-- Tmux
+EndevourOS + Hyprland + Neovim + Tmux.
+
+You can find my dotfiles [here](https://github.com/dxrcy/dotfiles) if you are
+interested.
 
 ## Some of my favourite standards/protocols
 
-- ISO-8601
-- Unicode and UTF-8
-- POSIX
+- [ISO-8601](https://en.wikipedia.org/wiki/ISO_8601)
+- [UTF-8](https://en.wikipedia.org/wiki/Unicode)
+- [POSIX](https://en.wikipedia.org/wiki/POSIX)
 
 
