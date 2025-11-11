@@ -6,5 +6,6 @@ Site {
     .assets_dir_path = "assets",
     .static_assets = [
         "favicon.png",
+        "Darcy.Burke.Resume.pdf",
     ],
 }
