@@ -35,6 +35,7 @@ jobs:
 
       - name: Build
         run: zine release
+          && cp public/404/index.html public/404.html
 
       - name: Setup Pages
         uses: actions/configure-pages@v5
