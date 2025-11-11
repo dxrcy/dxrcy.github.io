@@ -1,8 +1,6 @@
 Site {
     .title = "darcy's website",
     .host_url = "https://dxrcy.dev",
-    // Temporary
-    .url_path_prefix = "dxrcydev",
     .content_dir_path = "content",
     .layouts_dir_path = "layouts",
     .assets_dir_path = "assets",
