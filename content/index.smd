@@ -6,5 +6,166 @@
 .draft = false,
 ---
 
-Coming soon...
+I like programming and language.
+I speak English, Esperanto, and Rust,
+and am interested in low-level and systems programming, and web development.
+
+- [@dxrcy on GitHub](https://github.com/dxrcy)
+- [My Resume](https://dxrcy.dev/static/Darcy.Burke.Resume.pdf)
+
+# [Projects]($section.id('projects'))
+
+## βcalc -- Lambda Calculus Evaluator
+
+_Language: Zig_
+
+Command-line tool which parses, evaluates, and unifies lambda calculus
+expressions, focusing on speed and minimal allocation.
+
+## chesst -- Terminal Chess Game
+
+_Language: Zig_
+
+Two-player chess game built without any libraries, rendered in the terminal.
+
+## EveryGarf -- Download every _Garfield_ comic
+
+_Language: Rust_
+
+A command-line tool which scrapes _GoComics.com_ to download every _Garfield_
+comic concurrently.
+
+## LASIM -- LC-3 Assembler & Simulator
+
+_Language: C++_
+
+An implementation of both an assembler and simulator for the _Little Computer 3_
+(_LC-3_) assembly language.
+
+## Ibex -- Static site generation framework
+
+_Language: Rust_
+
+Write HTML-style templates which compile to static HTML files.
+Perfect for sites without dynamic content, that are only changed occasionally.
+
+### Other Projects
+
+- This webpage
+- Sorting algorithm visualiser (_Rust_)
+- Command-line XML syntax highlighter (_C_)
+- _Langon's Ant_ in Minecraft (_Rust_)
+- Color generation website (_HTML/JS_)
+
+# [Professional Experience]($section.id('professional-experience'))
+
+## Royal Melbourne Institute of Technology Melbourne
+
+Student Mentor (Paid role) – C++, Java, SQLite Feb 2025 - Current
+
+- In-class tutor for units previously taken, including core C++ and Java/SQLite
+  programming classes.
+
+Designing Assignment Sample Solution – C++ Mar 2025 - Jun 2025
+
+- Collaborated on the final assignment for C++ Programming Studio, and
+  implemented the sample solution.
+
+Developing Assignment Autograder – Python May 2025
+
+- Upgraded the automatic grading system for C++ Programming Studio, including
+  extending core functionality.
+
+## MMC Research Melbourne
+
+Developer for Chrome Native Extension (Short-term contract) – Rust Mar 2025
+
+- Built an asynchronous event loop for handling message requests, to use native
+  Rust code in Chrome Extensions.
+
+# [Contributions]($section.id('contributions'))
+
+## Git ✨
+
+_Language: C_
+
+Fixed a bug relating to integer underflow when using a commit timestamp close to
+Unix Epoch with a positive timezone offset. GitHub shows the PR as
+closed/unmerged, because the Git repo on GitHub is just a mirror.
+
+## Lace -- LC-3 assembly toolchain
+
+_Language: Rust_
+
+Implemented an interactive debugger interface, along with many other minor features and fixes.
+
+### Other Contributions
+
+- MCPP -- Minecraft interface library (_C++_)
+- Ferdium -- Social media manager (_Typescript_, _React_, _Electron_)
+- Nvim-Tree -- File explorer for NeoVim (_Lua_)
+- Yazi -- Terminal file explorer (_Rust_)
+- SpotDL -- Spotify download tool (_Python_)
+- Neothesia -- MIDI visualiser (_Rust_)
+
+# [Programming Experience]($section.id('programming-experience'))
+
+## Rust
+
+Rust provides a fantastic type system and ecosystem, with its safety guarantees
+being just another benefit.
+
+- Static site generation frameworks
+- Image processing
+- Graphics rendering (ggez)
+- Procedural macros and metaprogramming
+
+## Zig
+
+Zig is hands-down my favourite language to work with, due to its simplicity,
+low-level capabilities, and compile-time evaluation.
+
+- Terminal user interfaces
+- Dynamically loaded libaries
+- Custom language parsers
+- Algorithm implementations
+
+## C++ and C
+
+C++ is great (yes, I said it).
+
+- Compiler and interpreter implementations
+- Concurrent programming
+- Custom memory allocation
+- Low-level programming on POSIX systems
+
+## Javascript/Typescript
+
+A necessary skill for front-end web development.
+
+- Client-side vanilla Javascript in HTML
+- React single-page applications
+- Server-side programming with Node.JS
+- Electron applications
+
+## Miscellaneous
+
+- Languages: Python, Bash, Lua, Java, Haskell
+- Tools: coreutils, FFmpeg, Autohotkey
+
+# [/etc/]($section.id('etc'))
+
+## My Workflow
+
+- EndevourOS
+- Hyprland
+- Neovim
+- Tmux
+
+## Some of my favourite standards/protocols
+
+- ISO-8601
+- Unicode and UTF-8
+- POSIX
+
 

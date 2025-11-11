@@ -2,7 +2,9 @@
 <head id="head">
 </head>
 <body id="body">
-	<!-- <h1 :text="$page.title"></h1> -->
+	<div>
+		<div id="toc" :html="$page.toc()"></div>
+	</div>
+
 	<div :html="$page.content()"></div>
 </body>
-

@@ -4,7 +4,8 @@ h3,
 h4,
 h5 {
   color: #ddd;
-  font-family: "Verdana", sans-serif;
+  /* font-family: "Verdana", sans-serif; */
+  font-family: "Times New Roman", serif;
 }
 
 b,
@@ -82,4 +83,20 @@ footer {
 
 footer hr {
   width: 100%;
+}
+
+#toc {
+    ul {
+        font-size: 0.8em;
+    }
+    ul {
+        margin: 0;
+        padding: 0 1em;
+    }
+    li:first-of-type {
+        display: none;
+    }
+    ul ul {
+        display: none;
+    }
 }
