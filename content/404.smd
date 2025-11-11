@@ -1,0 +1,10 @@
+---
+.title = "Not Found",
+.date = @date("2025-11-11T12:00:00"),
+.author = "darcy",
+.layout = "index.shtml",
+.draft = false,
+---
+
+# Page not found :-)
+
