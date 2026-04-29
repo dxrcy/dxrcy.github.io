@@ -46,6 +46,10 @@ nav {
   justify-content: left;
   font-size: 1.2em;
   margin-bottom: 20px;
+
+  & a:not(:first-of-type) {
+      margin-left: 0.8em;
+  }
 }
 
 .block {
