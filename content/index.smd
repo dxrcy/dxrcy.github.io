@@ -16,6 +16,16 @@ and am interested in low-level and systems programming, and web development.
 
 # [Projects]($section.id('projects'))
 
+## [ELK -- Complete LC-3 Toolchain](https://codeberg.org/dxrcy/elk)
+
+_Language: Zig_
+
+[LC-3](https://en.wikipedia.org/wiki/Little_Computer_3)
+assembler, emulator, and debugger.
+Available both as a CLI program and a Zig library, ELK strives to be the most
+compatible and featureful implementation available.
+Actively used by RMIT for the Programming Studio C++ course.
+
 ## [βcalc -- Lambda Calculus Evaluator](https://github.com/dxrcy/bcalc)
 
 _Language: Zig_
@@ -23,7 +33,7 @@ _Language: Zig_
 Command-line tool which parses, evaluates, and unifies lambda calculus
 expressions, focusing on speed and minimal allocation.
 
-## [chesst -- Terminal Chess Game](https://github.com/dxrcy/chesst)
+## [checkt -- Terminal Chess Game](https://codeberg.org/dxrcy/checkt)
 
 _Language: Zig_
 
