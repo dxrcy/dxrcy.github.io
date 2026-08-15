@@ -9,12 +9,17 @@
 		<super>
 	</head>
 	<body id="body">
-		<h1 class="site-title" :text="$site.title"></h1>
-		<nav>
-			<a href="https://ring.twhlynch.me/left">⟪</a>
-			<a href="$site.page('').link()">Home</a>
-			<a href="https://ring.twhlynch.me/right">⟫</a>
-		</nav>
+		<div class="header">
+			<div class="side-by-side">
+				<img src="$site.asset('darcy.jpg').link()">
+				<h1 :text="$site.title"></h1>
+			</div>
+			<nav>
+				<a href="https://ring.twhlynch.me/left">⟪</a>
+				<a href="$site.page('').link()">Home</a>
+				<a href="https://ring.twhlynch.me/right">⟫</a>
+			</nav>
+		</div>
 		<super>
 		<footer>
 			<hr>
