@@ -55,7 +55,6 @@ body {
 
   nav {
     display: flex;
-    flex-direction: row;
     justify-content: left;
     font-size: 1.2em;
     justify-content: right;
@@ -63,7 +62,14 @@ body {
     margin-bottom: 0.6em;
 
     & a:not(:first-of-type) {
-        margin-left: 0.8em;
+        margin-left: 0.3em;
+    }
+
+    & a.arrow {
+      text-decoration: none;
+      &:hover, &:active {
+        transform: scale(1.2);
+      }
     }
   }
 }
